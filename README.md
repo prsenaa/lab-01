@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Princess Sena`
-- **CCID:** `<psena>`
+- **CCID:** `psena`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
